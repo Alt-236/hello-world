@@ -1,2 +1,4 @@
 # hello-world
-The guide told me to, so here I am.
+
+I really don't want to share any personal information yet.
+I may change this in the future if I don't forget abou it.
